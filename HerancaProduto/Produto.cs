@@ -10,7 +10,21 @@ namespace HerancaProduto
         protected int codigo;
         protected string nome;
         protected double preco;
-        
+        public Produto()
+        {
+            
+        }
+        public Produto(int codigo, string nome, double preco)
+        {
+            Codigo = codigo;
+            Nome = nome;
+            Preco = preco;
+        }
+        public void Mostrar()
+        {
+            Console.WriteLine("Código: " + Codigo + "\tNome: " + Nome + "\tPreço: " + Preco);
+        }
+            
         public int Codigo
         {
             get {return codigo;}
