@@ -1,0 +1,15 @@
+D:\POO noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.exe
+D:\POO noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.deps.json
+D:\POO noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.runtimeconfig.json
+D:\POO noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.dll
+D:\POO noite\ConstrutorAluno\bin\Debug\net6.0\ConstrutorAluno.pdb
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.csproj.AssemblyReference.cache
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.AssemblyInfoInputs.cache
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.AssemblyInfo.cs
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.dll
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\refint\ConstrutorAluno.dll
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.pdb
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\ConstrutorAluno.genruntimeconfig.cache
+D:\POO noite\ConstrutorAluno\obj\Debug\net6.0\ref\ConstrutorAluno.dll
