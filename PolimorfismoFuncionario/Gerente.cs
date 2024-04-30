@@ -15,6 +15,5 @@ namespace PolimorfismoFuncionario
         {
             return Salario * 15 / 100;
         }
-        
     }
 }

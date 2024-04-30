@@ -8,21 +8,22 @@ namespace PolimorfismoFuncionario
     public class GerenciadorBonificacao
     {
         public double totalBonificacao { get; private set; }
-        public double totalizadorBonificacao(Funcionario funcionario)
+        public void totalizadorBonificacao(Funcionario funcionario)
         {
-
+            totalBonificacao += funcionario.CalcularBonificacao();
         }
-        public double totalizadorBonificacao(Secretario secretario)
+        public void totalizadorBonificacao(Secretario secretario)
         {
-
+            totalBonificacao += secretario.CalcularBonificacao();
         }
-        public double totalizadorBonificacao(Gerente gerente)
+        public void totalizadorBonificacao(Gerente gerente)
         {
-
+            totalBonificacao += gerente.CalcularBonificacao();
         }
-        public double totalizadorBonificacao(Diretor diretor)
+        public void totalizadorBonificacao(Diretor diretor)
         {
-
+            totalBonificacao += diretor.CalcularBonificacao();
         }
         
+    }
 }
