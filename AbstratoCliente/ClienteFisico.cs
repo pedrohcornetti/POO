@@ -11,13 +11,22 @@ namespace AbstratoCliente//extends
         public ClienteFisico(): base()
         {            
         }
-        public void Mostrar()
-        {
+        public override void Mostrar()
+        
+            {
             Console.WriteLine("Código: " + codigo +
-            "\tNome: " + nome + "\tEndereço: "+ endereco + "\tRg: " + Rg);
+            "\tNome: " + nome + "\tEndereço: "+ endereco + "\tRg: " + rg);
+            }
+        
+        public override void AvalaIdade()
+        {
+            if (idade >= 18 && Idade < 40)
+            {
+                Console.WriteLine("Cliente físico!");
+            }
         }
 
-        public ClienteFisico(int codigo, string nome, string endereco, int rg) : base(codigo, nome, endereco)
+        public ClienteFisico(int codigo, string nome, string endereco,int idade, int rg) : base(codigo, nome, endereco,idade)
         {
             Rg = rg;
         }
