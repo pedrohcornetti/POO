@@ -7,6 +7,6 @@ namespace InterfaceAutenticavel
 {
     public class Funcionario
     {
-        
+        public int Senha { get; set; }
     }
 }

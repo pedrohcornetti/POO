@@ -7,6 +7,17 @@ namespace InterfaceAutenticavel
 {
     public class Diretor
     {
-        
+        public class Diretor : Funcionario, IAutenticavel
+        {
+            public bool Autenticar(int senha)
+            {
+                if(Senha == senha)
+                {
+                    Console.WriteLine("Diretor autenticado!");
+                    return true;
+                }
+                return false;
+            }
+        }
     }
 }

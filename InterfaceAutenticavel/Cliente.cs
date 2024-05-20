@@ -5,8 +5,17 @@ using System.Threading.Tasks;
 
 namespace InterfaceAutenticavel
 {
-    public class Cliente
+    public class Cliente : IAutenticavel
     {
-        
+        public int Senha { get; set; }
+        public bool Autenticar(int senha)
+        {
+            if(Senha == senha)
+            {
+                Console.WriteLine("Cliente autenticado!");
+                return true;
+            }
+            return false;
+        }
     }
 }

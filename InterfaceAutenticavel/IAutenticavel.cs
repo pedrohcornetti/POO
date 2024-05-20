@@ -7,6 +7,7 @@ namespace InterfaceAutenticavel
 {
     public interface IAutenticavel
     {
-        
+        //assinatyra de método
+        bool Autenticar(int senha);
     }
 }

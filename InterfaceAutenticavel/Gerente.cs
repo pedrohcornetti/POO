@@ -5,8 +5,17 @@ using System.Threading.Tasks;
 
 namespace InterfaceAutenticavel
 {
-    public class Gerente
+    public class Gerente : Funcionario, IAutenticavel
     {
-        
+        public bool Autenticar(int senha)
+        {
+            if(Senha == senha)
+            {
+                Console.WriteLine("Gerente autenticado!");
+                return true;
+            }
+            Console.WriteLine("Gerente não autenticado!");
+            return false;
+        }
     }
 }
