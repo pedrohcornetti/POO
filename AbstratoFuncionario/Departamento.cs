@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace AbstratoFuncionario
 {
@@ -10,40 +9,50 @@ namespace AbstratoFuncionario
         public int Codigo { get; set; }
         public string Nome { get; set; }
         public List<Funcionario> VetF { get; set; }
+
         public Departamento(int codigo, string nome)
         {
             Codigo = codigo;
             Nome = nome;
             VetF = new List<Funcionario>();
         }
+
         public void Admitir(Funcionario f)
         {
             VetF.Add(f);
         }
+
         public void ListarFuncionarios()
         {
             Console.WriteLine("\nListagem de departamento: " + Nome);
             foreach (Funcionario f in VetF)
                 f.Mostrar();
         }
+
         public void Demitir(int codigo)
         {
-            for(int i = 0; i < VetF.Count; i++)
-            {
-                Funcionario f = VetF.ElementAt<Funcionario>(i);
-                if (f.Codigo = codigo)
-                    VetF.Remove(f);
-            }
+            VetF.RemoveAll(f => f.Codigo == codigo);
         }
-        public void CalcularFolha(int diasUteis)
+
+        public double CalcularFolha(int diasUteis)
         {
             double folha = 0;
-            for(int i = 0; i < VetF.Count; i++)
+            for (int i = 0; i < VetF.Count; i++)
             {
                 Funcionario f = VetF.ElementAt<Funcionario>(i);
-                folha += f.CalculaSalario(diasUteis);
+                folha += f.CalcularSalario(diasUteis);
             }
             return folha;
+        }
+
+        public int CalcularTotalDependentes()
+        {
+            int totalDependentes = 0;
+            foreach (var func in VetF)
+            {
+                totalDependentes += func.CalcularTotalDependentes();
+            }
+            return totalDependentes;
         }
     }
 }
