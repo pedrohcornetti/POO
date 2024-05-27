@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace InterfaceTributos
+namespace InterfaceTributavel
 {
-    public class TotalizadorDeTributos
-{
-public double Total { get; private set; }
-public void Adiciona(ITributavel t)
-{
-this.Total += t.CalculaTributos();
-}
-}
+    public class TotalizadordeTributos
+    {
+        public double Total { get; private set; }
+
+        public void Adiciona(ITributavel t)
+        {
+            this.Total += t.CalcularTributos();
+        }   
+    }
 }

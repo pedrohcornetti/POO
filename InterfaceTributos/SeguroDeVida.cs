@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace InterfaceTributos
+namespace InterfaceTributavel
 {
-    public class SeguroDeVida
+    public class SeguroDeVida : ITributavel
     {
-        
+        public double CalcularTributos()
+        {
+            return 75;
+        }
     }
 }

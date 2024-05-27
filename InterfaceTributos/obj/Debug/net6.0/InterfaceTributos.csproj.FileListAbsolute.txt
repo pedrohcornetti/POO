@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\bin\Debug\net6.0\InterfaceTributos.exe
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\bin\Debug\net6.0\InterfaceTributos.deps.json
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\bin\Debug\net6.0\InterfaceTributos.runtimeconfig.json
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\bin\Debug\net6.0\InterfaceTributos.dll
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\bin\Debug\net6.0\InterfaceTributos.pdb
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\InterfaceTributos.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\InterfaceTributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\InterfaceTributos.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\InterfaceTributos.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\InterfaceTributos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\InterfaceTributos.dll
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\refint\InterfaceTributos.dll
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\InterfaceTributos.pdb
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\InterfaceTributos.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\POO\InterfaceTributos\obj\Debug\net6.0\ref\InterfaceTributos.dll

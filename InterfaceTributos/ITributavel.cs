@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace InterfaceTributos
+namespace InterfaceTributavel
 {
-    
     public interface ITributavel
     {
-        double CalculaTributos();
+        double CalcularTributos();
     }
 }
