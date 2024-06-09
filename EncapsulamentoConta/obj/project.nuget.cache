@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UbXFh+A6K4PqWg+C/77vIY4TgCCjubRl9LdhXxBXoEP6uZ6+TTP0EhhmUc5xK1H0uxCXwCNBSelKMT0p+Y+4Fg==",
+  "dgSpecHash": "g53Z2k45IsYslKPQNPMo1iLcE9KjYuXSDubSPlb+HdUClI8grmue7e79rrb2z5KnzcDvsPGZs2JsAZSuDARwSA==",
   "success": true,
-  "projectFilePath": "L:\\POO noite\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\EncapsulamentoConta\\EncapsulamentoConta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

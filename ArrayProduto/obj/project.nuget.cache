@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Tel19etThtUZNS3NxTvZqHHl+73Ijh14plZZ32befHDhEdTZwCsOKF18gS8aCW1kaS04ONOoSG+SzE5KqA8Ajg==",
+  "dgSpecHash": "SeAp1l21yJ+UfSHQqQ2Sgkd/RpKyA7/lYZcYLJ+elh9JB31M7oWvSXBf7rGi3wlq+xn/pf2CS1bND/EeXkrZEw==",
   "success": true,
-  "projectFilePath": "D:\\POO noite\\ArrayProduto\\ArrayProduto.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\ArrayProduto\\ArrayProduto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

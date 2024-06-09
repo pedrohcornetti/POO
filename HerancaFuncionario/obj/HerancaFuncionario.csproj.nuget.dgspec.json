@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\POO\\HerancaFuncionario\\HerancaFuncionario.csproj": {}
+    "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\HerancaFuncionario\\HerancaFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\POO\\HerancaFuncionario\\HerancaFuncionario.csproj": {
+    "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\HerancaFuncionario\\HerancaFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\POO\\HerancaFuncionario\\HerancaFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\HerancaFuncionario\\HerancaFuncionario.csproj",
         "projectName": "HerancaFuncionario",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\POO\\HerancaFuncionario\\HerancaFuncionario.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\POO\\HerancaFuncionario\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\HerancaFuncionario\\HerancaFuncionario.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\HerancaFuncionario\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

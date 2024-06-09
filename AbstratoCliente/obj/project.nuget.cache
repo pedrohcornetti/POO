@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8E3wDHMv8VIKiaugQGJTlG6ix/wxHQ7keYpHO9f7LNwqjn4/73/ag57fRbUehDN1nvAT1JEjZv19A6WAAZZbKg==",
+  "dgSpecHash": "7RkeiT1+xfWI4lLWWwlm2gbUqFiFKotVg4IiCjbYwJ0WtWc8vomXIYOjP4JG7S7g7D0WZX6sHYyGCN7Fafyv3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\POO\\AbstratoCliente\\AbstratoCliente.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\AbstratoCliente\\AbstratoCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

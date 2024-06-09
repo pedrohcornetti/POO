@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7FoJs1TlKxlnnY3C7s0YV3uwrUcwayNceR2zhHahuBmmrc8R7HAekg/AHSl3A6tBDo46Xt94lZ2cMNiIRUz/MA==",
+  "dgSpecHash": "NOGjD8NEgLZuJFDVa1DciS9qhP96AAqJABHTLgEI9lON+mjSD3b9bGLqpflnTiz5t6qqE/xiMUKbEFotMeDvsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\PolimorfismoFuncionario\\PolimorfismoFuncionario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

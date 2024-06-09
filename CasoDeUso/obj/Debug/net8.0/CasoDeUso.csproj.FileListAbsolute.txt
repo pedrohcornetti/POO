@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\bin\Debug\net8.0\CasoDeUso.exe
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\bin\Debug\net8.0\CasoDeUso.deps.json
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\bin\Debug\net8.0\CasoDeUso.runtimeconfig.json
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\bin\Debug\net8.0\CasoDeUso.dll
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\bin\Debug\net8.0\CasoDeUso.pdb
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\CasoDeUso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\CasoDeUso.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\CasoDeUso.AssemblyInfo.cs
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\CasoDeUso.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\CasoDeUso.sourcelink.json
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\CasoDeUso.dll
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\refint\CasoDeUso.dll
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\CasoDeUso.pdb
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\CasoDeUso.genruntimeconfig.cache
+C:\Users\pedro\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\POO\CasoDeUso\obj\Debug\net8.0\ref\CasoDeUso.dll

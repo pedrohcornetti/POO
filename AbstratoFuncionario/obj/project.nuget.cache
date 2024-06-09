@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Bjj8GtP2enmg6URi0SSEcBRFknl9Lmvpp1Onx2XTzC8VzAhajB/GRbP7gETNFUqPrYjZ24yVyAorIzLbLd3KGg==",
+  "dgSpecHash": "AcxwydtSH4Cf5fZ0VZYCWFEIEa7Iz4zuP2VDfR3zuMOTlGVigtumcOMjKkHYtEkVFz0uH8hrBYcn5id3tIz3IQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\POO\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\AbstratoFuncionario\\AbstratoFuncionario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

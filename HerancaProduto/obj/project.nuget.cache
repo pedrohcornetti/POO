@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Z/Ea+eWc/lQF+eUf90wnSGovv08zge4nZGxgqKm+aszUx3Om3VFEX4j5pBj37z1jVHBxze0p3RrCWGcSySjT0g==",
+  "dgSpecHash": "SUwpONhmYpNSbpFppSuRP9gbm+ns4zDviLL4k1l7kqN5K9m3gBz79NgmkTK1s8rRd4jDXzsYW7t9t97+3UuxDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\POO\\HerancaProduto\\HerancaProduto.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\HerancaProduto\\HerancaProduto.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
   ],
   "logs": []
 }

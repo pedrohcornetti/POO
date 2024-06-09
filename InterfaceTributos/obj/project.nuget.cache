@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JWcjsYJ/UKF+DNDJauk6sxCbklBLt5fwGbYFfQgSk/Zbgm3eykn5jbs0ZNb/m6w9tUf2bKkMMGcvhB97WSGkdQ==",
+  "dgSpecHash": "oG3E44MYq5HFvsUV6wDCdGZgBqQfZmRwDhuxkY65HAjgMCJCSzCDqbiFIKVPxHtz0lqLJo1dpP/KtrsZAOyf6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\POO\\InterfaceTributos\\InterfaceTributos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\InterfaceTributos\\InterfaceTributos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

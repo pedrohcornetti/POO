@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eYPoXExaL4AXEcetRRqFltnq4n3r4nJRIX9vhKAEAtrYaVEvFSvkm1PdoKPxinT7p7wwErLXkcUF+BZfXXJSJQ==",
+  "dgSpecHash": "QW9VVaOwEDwS0FJUrlc8uAdH1X7vgzrAno+ZtUYScexIBQR4g+rVT4Qr1J6uczAXjNsU/Yn0kO3eEHGA+4idIQ==",
   "success": true,
-  "projectFilePath": "D:\\POO noite\\ConstrutorAluno\\ConstrutorAluno.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\ConstrutorAluno\\ConstrutorAluno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

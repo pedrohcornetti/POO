@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KjHD1QQbjV1tjqjpRsNow54h2iPLad+wKgSAOTrvsL9n/IBJXmUrR9YiMPBSBHsXyGsPE6L2i2P0XaVHjGzdYg==",
+  "dgSpecHash": "J+1GwEe26HK0TPBDUPP3Q1gAALSRavcnWyvdNia49taLoWAtiBuTYtdMqlOxmZQ3Z71u5y/B2sZxcsntp2bBxQ==",
   "success": true,
-  "projectFilePath": "D:\\POO noite\\AgregacaoConta\\AgregacaoConta.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\AgregacaoConta\\AgregacaoConta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

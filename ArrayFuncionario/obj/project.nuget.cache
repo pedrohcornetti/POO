@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gQItTtadXbqDBVCqPDKaxbcofdx5xel1zMg1ovKVeRfzwCb7GA6sF6qv1kLHFsdqmAOul5zazNHl5dSswvpbJA==",
+  "dgSpecHash": "dR3ib61AkopoMb1rVPPU8qee1z7qnSbdnFM6Bp9lh7IHYuVchb/STGx6574U3qSOw5HKeeJNLalMZmDGj8HE1g==",
   "success": true,
-  "projectFilePath": "L:\\POO noite\\ArrayFuncionario\\ArrayFuncionario.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\POO\\ArrayFuncionario\\ArrayFuncionario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }
