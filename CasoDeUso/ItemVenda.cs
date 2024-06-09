@@ -11,6 +11,6 @@ public class ItemVenda
     }
     public double Subtotal()
     {
-        return Quantidade * Preco;
+        return Quantidade < 50 ?Quantidade * Preco: Quantidade * Preco * 0.8;
     }
 }
